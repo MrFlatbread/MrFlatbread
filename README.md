@@ -1,6 +1,7 @@
 Welcome my son
 Welcome to the machine
 
+### About Me
 I'm currently working on school and other projects. I like physics, music, and _Dune_.
 
 <!--
