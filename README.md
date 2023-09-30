@@ -1,7 +1,7 @@
-### Welcome my son
-### Welcome to the machine
+Welcome my son
+Welcome to the machine
 
-#### I'm currently working on school and other projects. I like physics, music, and _Dune_.
+I'm currently working on school and other projects. I like physics, music, and _Dune_.
 
 <!--
 **MrFlatbread/MrFlatbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
